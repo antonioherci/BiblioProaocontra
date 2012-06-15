@@ -1,4 +1,4 @@
-BiblioProaocontra
+﻿BiblioProaocontra
 =================
 
-Bibliografia para trabalhos acadêmicos
+Bibliografia para trabalhos acadêmicos *****
